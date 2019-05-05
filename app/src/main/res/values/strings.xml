@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pick_location">select location</string>
+    <string name="pick_photo">pick a photo</string>
+    <string name="exit">exit</string>
+    <string name="open_Gallery">open gallery</string>
+    <string name="map">open map</string>
+</resources>
